@@ -1,0 +1,10 @@
+name: CannonBoats
+version: ${project.version}
+main: me.mtm123.cannonboat.CannonBoats
+softdepend: [ProtocolLib]
+authors: [MTM123]
+description: Adds feature to shoot TNT from boats
+commands:
+  cbreload:
+    description: Reloads the plugin
+    usage: /cbreload

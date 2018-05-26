@@ -1,0 +1,13 @@
+# Sulphur used per shot
+sulphur-per-shot: 3
+# TNT launch power
+power: 1.5
+# Cannon cooldown in seconds
+cooldown: 3.0
+# Title of boat inventory
+inv-title: "&c&lBoat inventory"
+
+# Messages
+cooldown-message: "&cBoat cannon is recharging..."
+cooldown-finished: "&aBoat cannon has finished recharging!"
+reload-message: "&aPlugin reloaded!"
